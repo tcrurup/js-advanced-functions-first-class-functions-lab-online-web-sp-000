@@ -1,8 +1,8 @@
 // Code your solution in this file!
 
-function returnFirstTwoDrivers(){
+function returnFirstTwoDrivers(drivers){
   
-  const temp = function(driverArray){
+  const temp = function(drivers){
     
   };
 }
