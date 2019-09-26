@@ -2,7 +2,7 @@
 
 function returnFirstTwoDrivers(){
   
-  const temp = function(){
+  const temp = function(driverArray){
     
-  }
+  };
 }
